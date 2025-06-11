@@ -1,4 +1,5 @@
 # 🌐 world-explorer-app    – Powered by Streamlit & BeautifulSoup
+[🌐Visit Website](https://world-explorer.streamlit.app/)
 
 An interactive learning and quiz platform where users can explore and test their knowledge of countries through flags, capitals, globe locations, and fun facts. This project combines **web scraping**, **data wrangling**, and **Streamlit** to deliver a rich educational experience.
 
